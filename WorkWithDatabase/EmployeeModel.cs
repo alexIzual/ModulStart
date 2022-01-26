@@ -14,6 +14,5 @@
         {
             return $"Id:{Id} FirstName:{FirstName} LastName:{LastName} Position:{Position}";
         }
-
     }
 }
